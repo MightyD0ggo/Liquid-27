@@ -1,2 +1,4 @@
-# Liquid-27
-iOS 27 inspired theme for older iPhones, iPads, and iPods.
+# Liquid 27
+The Brand new iOS 27 icons brought to older iOS devices. Icons are from [Apple Design Resources](https://apple.com)
+
+
