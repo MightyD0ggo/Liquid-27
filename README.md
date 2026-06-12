@@ -6,7 +6,8 @@ A theme that gives afresh look of the new iOS 27 icons to all Apple Devices that
 
 
 ###
-Liquid 27 is a theme that ports/brings the new iOS 27 icons to older idevices. With 2 color modes: Default (Light) and Dark (I'm still figuring out how to make an clear mode)
+Liquid 27 is a theme that ports/brings the new iOS 27 icons to older idevices. With 2 color modes: Default (Light) and Dark 
+(I'm still figuring out how to make an clear mode)
 
 <img width="1104" height="767" alt="IMG_0898" src="https://github.com/user-attachments/assets/57aa4fed-1004-4001-9e09-980964ad3b84" />
 
